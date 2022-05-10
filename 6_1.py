@@ -22,7 +22,7 @@
 # print(6/"2") # can not divide an integer with a string
 
 # a = "a" 
-# print(int("a")) # can not convert a string into an integer suing this method
+# print(int("a")) # can not convert a string into an integer using this method
 
 # print(1/0) # cannot divide anything by zero, it will come out false
 
